@@ -20,3 +20,17 @@ This is a simple TODO list application built using Node.js. It allows you to cre
 
    ```bash
   https://github.com/BISHWAJEETK999/MANAGEMENT-APP-USING-NODE.git
+
+
+
+  how to run
+
+
+  in ternimal of vs code
+
+  npm install
+
+  then
+  npm start 
+
+  
